@@ -1,0 +1,38 @@
+table {
+    border-collapse: collapse;
+    font-family: 'Courier New', Courier, monospace;
+    --red: red;
+    --brown: chocolate;
+    --blue: blue;
+
+}
+
+td {
+
+    border: 1px solid rgb(19, 19, 29);
+    padding: 10px;
+}
+
+.red {
+    background-color: var(--red);
+}
+
+.brown {
+    background-color: var(--brown);
+}
+
+.coyot {
+    background-color: burlywood;
+}
+
+.black {
+    background-color: black;
+}
+
+.blue {
+    background-color: var(--blue);
+}
+
+.yellow {
+    background-color: yellow;
+}
