@@ -199,6 +199,7 @@ input.checkbox-right:checked[type="checkbox"]:before {
     text-align: center;
     line-height: 40px;
     cursor: pointer;
+    user-select: none;
 }
 
 .btn:hover {
